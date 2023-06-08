@@ -1,0 +1,4 @@
+Giovanni#Muciacia#BNTLNZ96D29B107C#lorenzo.bonetti@gmail.com#3386021840#Via Bovolone 1#D001#Supervisore#2500#Visual Computing
+Filippo#Lovato#LVTFPP96T24B107C#filippo.lovato@gmail.com#3937814689#Via Quadrelli 20#D002#Head of Costumer Care#3000#Assistenza Clienti
+Matteo#Rossi#RSSMTT92X34E245S#matteo.rossi@gmail.com#3937814677#Via Posto 1#D003#Inserviente#1100#Uffici
+Carlo#Neri#LVTFPP96T24B107X#carlo.neri@gmail.com#3937814560#Via Casa 5#D004#Direttore#4000#Uffici

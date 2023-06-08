@@ -1,0 +1,6 @@
+P001#Borsa#Louis Vitton#2#359.99#Nuovo
+P002#Pallone da calcio#Adidas#30#19.99#Nuovo
+P003#LG Nexus 5X#LG#3#219.99#Nuovo
+P004#Harry Potter e l'Ordine della Fenice#Salani Editore#5#20.5#Nuovo
+P005#Mouse Grigio#Tecknet#10#20#Nuovo
+P006#Samsung GT-I9300#Samsung#10#150#Nuovo
