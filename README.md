@@ -1,8 +1,8 @@
 Students info:
 
-Lorenzo Bonetti - id246ruo
-Fabio Livorno - id503qbe
-Filippo Lovato - id328vrk
+Lorenzo Bonetti
+Fabio Livorno
+Filippo Lovato
 
 Short Project Description:
 
@@ -15,36 +15,36 @@ Prima di terminare il programma provvede alla sovrascrittura dei file precedente
 
 How to run:
 
->> cmake .
->> make
->> ./azienda
+- cmake .
+- make
+- ./azienda
 
 in alternativa, avendo sviluppato il comando instal:
 
->> cmake .
->> make
->> make instal 
->> ./bin/azienda
+- cmake .
+- make
+- make instal 
+- ./bin/azienda
 
 Make commands available:
 
->> make doc
->> make test
->> make instal
->> make valgrind
->> make analysis
->> make tidy
->> make stats
->> make cyclo
+- make doc
+- make test
+- make instal
+- make valgrind
+- make analysis
+- make tidy
+- make stats
+- make cyclo
 
 Debug/Release mode:
 
->> cmake -DCMAKE_BUILD_TYPE=Debug
->> cmake -DCMAKE_BUILD_TYPE=Release
+- cmake -DCMAKE_BUILD_TYPE=Debug
+- cmake -DCMAKE_BUILD_TYPE=Release
 
 To format with our configuration file (using Google style):
 
->> clang-format -i -style=file src/source.cpp
->> clang-format -i -style=file src/main.cpp
->> clang-format -i -style=file test/test.cpp
->> clang-format -i -style=file include/header.hpp
+- clang-format -i -style=file src/source.cpp
+- clang-format -i -style=file src/main.cpp
+- clang-format -i -style=file test/test.cpp
+- clang-format -i -style=file include/header.hpp
